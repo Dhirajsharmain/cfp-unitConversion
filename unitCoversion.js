@@ -39,7 +39,7 @@ try{
             console.log("\nInvalid Selection");
     }  
 }catch{
-    console.log("\nInvalid Selection");
+    console.log("\nError Invalid Selection");
 }
 
 
