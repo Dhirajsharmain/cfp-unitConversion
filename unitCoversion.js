@@ -1,6 +1,7 @@
 /**
  * ****************************************************************************
- * Purpose: The purpose of this program to convert the Feet to Inch, Meter to Feet and vice-versa.
+ * Purpose: The purpose of this program to convert the Feet to Inch, Meter to 
+ *          Feet and vice-versa.
  *
  * @author Dhiraj
  * @version 1.0
